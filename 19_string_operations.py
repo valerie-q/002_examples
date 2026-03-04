@@ -10,7 +10,7 @@ a = 48
 b = 73
 
 message = f'{a} - {b} = {a - b}'
-print(message3)
+print(message)
 
 # індексація рядків
 s = 'Hello,_World!'

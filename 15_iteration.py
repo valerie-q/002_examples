@@ -23,5 +23,6 @@ print('Max element in string:', max(string))
 print()
 
 
-string2 = string.find("a")
+string2 = string.find("a") #вказує індекс першої "a"
+print(string2)
 print('New string is:', ((string + str(string2) + " ") * 3))

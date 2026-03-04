@@ -6,3 +6,5 @@ print(string[0])  # 'a'
 print(string[6])  # 'n'
 print(string[-2])  # 'n'
 print(string[-1])  # 'g'
+
+print(string[2]+string[-3])

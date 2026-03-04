@@ -9,10 +9,13 @@ print(x - y)
 # множення
 print(x * y)
 # ділення
+print()
 print(x / y)
 # цілочисельне ділення
+print()
 print(x // y)
 # остача від ділення
+print()
 print(x % y)
 # піднесення до ступеня
 print(x ** y)
